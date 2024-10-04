@@ -45,7 +45,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          We are a company that leads to success. 
+          ความสำเร็จของเราไม่ได้วัดจากความสำเร็จในอดีต แต่เป็นความมุ่งมั่นและความพยายามในการสร้างอนาคตที่ดียิ่งขึ้น
         </motion.p>
 
         <motion.a
