@@ -20,7 +20,7 @@ export const Navbar = () => {
             className="cursor-pointer hover:animate-slowspin"
           />
           <div className="font-bold ml-[10px] hidden md:block text-gray-300">
-            John Doe
+            GalacticCore Enterprises
           </div>
         </Link>
 
@@ -43,7 +43,6 @@ export const Navbar = () => {
               rel="noreferrer noopener"
               className="cursor-pointer hover:text-[rgb(112,66,248)] transition"
             >
-              Source Code
             </Link>
           </div>
         </div>
